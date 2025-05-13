@@ -1,0 +1,9 @@
+ yaml
+version: '3'
+name: par
+name: cccc
+services:
+  web:
+    image: nginx
+    ports:
+      - "8080:80"
