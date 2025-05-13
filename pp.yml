@@ -1,7 +1,7 @@
  yaml
 version: '3'
 name: par
-name: cccc
+name: cccc nn
 services:
   web:
     image: nginx
